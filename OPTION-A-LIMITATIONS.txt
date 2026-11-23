@@ -1,0 +1,4 @@
+This project is a browser-only demonstration. It does not provide server-side authentication, multi-user data synchronization, or secure storage. Never store real employee UAN or payroll data here.
+
+
+The revised wage logic follows the supplied reference calculation table and user-provided rounding/upload requirements. It remains a browser-only demonstration; do not use real employee or payroll data.
